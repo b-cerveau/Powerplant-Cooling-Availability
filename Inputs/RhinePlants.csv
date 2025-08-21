@@ -1,0 +1,31 @@
+eic_p;eic_g;name_p;name_g;capacity_p;capacity_g;type_g;lat;lon;country;NUTS2;status_g;year_commissioned;year_decommissioned;water_type;cooling_type;water_withdrawal;water_consumption;eff;best_source;region
+11WD4GKM-2CD7--7;11W0-0000-0006-5;GKM AG Amprion;GKM AG Amprion;691.0;691.0;Fossil Hard coal;49.446;8.49;Germany;DE12;COMMISSIONED;1982.0;;Freshwater;Once-through;137.59;0.95;0.35;Class_derived;Rhine
+11WD4GKM-XCD0--3;11W0-0000-0004-B;GKM AG DBEnergie;GKM AG DBEnergie;244.0;244.0;Fossil Hard coal;49.445;8.5;Germany;DE12;COMMISSIONED;;;Freshwater;Once-through;137.59;0.95;0.32;Class_derived;Rhine
+11WD4GKM-2CD4--J;11W0-0000-0005-8;GKM AG TNG;GKM AG TNG;1036.0;1036.0;Fossil Hard coal;49.446;8.49;Germany;DE12;COMMISSIONED;;;Freshwater;Once-through;137.59;0.95;0.35;Class_derived;Rhine
+11WD7BRAU5G-KW-N;11WD7BRAU5G-GUDH;GuD Dormagen;GuD Dormagen;586.0;586.0;Fossil Gas CC;51.08;6.828;Germany;DEA1;COMMISSIONED;2000.0;;Freshwater;Mechanical Draught Tower;0.96;0.78;0.38;Class_derived;Rhine
+11WD7LUDW2GA800M;11WD7LUDW2GGT12C;GuD Ludwigshafen Mitte;Block GT 12;412.0;206.0;Fossil Gas CC;49.453;8.433;Germany;DEB3;COMMISSIONED;1997.0;;Freshwater;Once-through;43.07;0.38;0.35;Class_derived;Rhine
+11WD7LUDW2GA800M;11WD7LUDW2GGT11E;GuD Ludwigshafen Mitte;Block GT 11;412.0;206.0;Fossil Gas CC;49.453;8.433;Germany;DEB3;COMMISSIONED;1997.0;;Freshwater;Air Cooling;0.01;0.01;0.38;Class_derived;Rhine
+11WD7LUDW5GSUEDE;11WD7LUDW5GSDG1Q;GuD Ludwigshafen Süd;Block GT1;345.0;178.0;Fossil Gas CC;49.453;8.433;Germany;DEB3;COMMISSIONED;1997.0;;Freshwater;Once-through;43.07;0.38;0.48;OEM_derived;Rhine
+11WD7LUDW5GSUEDE;11WD7LUDW5GSDG2O;GuD Ludwigshafen Süd;Block GT2;345.0;167.0;Fossil Gas CC;49.453;8.433;Germany;DEB3;COMMISSIONED;1997.0;;Freshwater;Once-through;43.07;0.38;0.37;OEM_derived;Rhine
+11WD7BEEC5XHAKW5;11WD7BEEC5XHAM3K;HAMBORN-KW;HAMBORN-3;385.0;60.0;Fossil Coal-derived gas;51.492;6.727;Germany;DEA1;COMMISSIONED;1958.0;;Freshwater;Natural Draught Tower;4.55;3.13;0.4;Class_derived;Rhine
+11WD7BEEC5XHAKW5;11WD7BEEC5XHAM4I;HAMBORN-KW;HAMBORN-4;385.0;100.0;Fossil Coal-derived gas;51.492;6.727;Germany;DEA1;COMMISSIONED;1958.0;;Freshwater;Natural Draught Tower;4.55;3.13;0.4;Class_derived;Rhine
+11WD7BEEC5XHAKW5;11WD7BEEC5XHAM5G;HAMBORN-KW;HAMBORN-5;385.0;225.0;Fossil Coal-derived gas;51.492;6.727;Germany;DEA1;COMMISSIONED;1958.0;;Freshwater;Natural Draught Tower;4.55;3.13;0.4;Class_derived;Rhine
+11WD7FUEH5GMEKW7;11WD7FUEH5GMERKA;HKW Merkenich;GuD-Anlage-HKW-Merkenich;110.0;110.0;Fossil Gas;51.017;6.963;Germany;DEA2;COMMISSIONED;2004.0;;Freshwater;Once-through;43.07;0.38;0.49;OEM_derived;Rhine
+11WD7BOLA--KWNIK;11WD7BOLA5GDTN2T;HKW Niehl;NIEHL-II-DT;866.0;147.0;Fossil Gas CC;50.974;6.991;Germany;DEA2;COMMISSIONED;2005.0;;Freshwater;Natural Draught Tower;0.96;0.78;0.54;OEM_derived;Rhine
+11WD7BOLA--KWNIK;11WD7OPLA1G--318;HKW Niehl;NIEHL-3;866.0;453.0;Fossil Gas;50.974;6.991;Germany;DEA2;COMMISSIONED;2005.0;;Freshwater;Natural Draught Tower;0.96;0.78;0.53;OEM_derived;Rhine
+11WD7BOLA--KWNIK;11WD7BOLA5GGTN2E;HKW Niehl;NIEHL-II-GT;866.0;266.0;Fossil Gas CC;50.974;6.991;Germany;DEA2;COMMISSIONED;2005.0;;Freshwater;Natural Draught Tower;0.96;0.78;0.54;OEM_derived;Rhine
+11WD7HUCK2G--KWR;11WD7HUCK2G--B-9;Huckingen (HKM);Huckingen B;600.0;300.0;Fossil Coal-derived gas;51.376;6.724;Germany;DEA1;COMMISSIONED;1976.0;;Freshwater;Natural Draught Tower;4.55;3.13;0.4;Class_derived;Rhine
+11WD7HUCK2G--KWR;11WD7HUCK2G--A-C;Huckingen (HKM);Huckingen A;600.0;300.0;Fossil Coal-derived gas;51.376;6.724;Germany;DEA1;COMMISSIONED;1975.0;;Freshwater;Natural Draught Tower;4.55;3.13;0.4;Class_derived;Rhine
+11WD4KKP21N-S--O;11WD4KKP21N2---E;KKW Philippsburg;KKW Philippsburg 2;1402.0;1402.0;Nuclear;49.253;8.436;Germany;DE12;COMMISSIONED;1980.0;;Freshwater;Natural Draught Tower;4.17;2.54;0.355;MANUALLY_ADDED_BC;Rhine
+11WD7NORF5G--KWG;11WD7NORF5GGUDFA;Kraftwerk Lausward;Block F;1145.0;595.0;Fossil Gas;51.222;6.732;Germany;DEA1;COMMISSIONED;1975.0;;Freshwater;Natural Draught Tower;0.96;0.78;0.38;Class_derived;Rhine
+11WD7NORF5G--KWG;11WD7NORF5GAGUDC;Kraftwerk Lausward;Block AGuD;1145.0;100.0;Fossil Gas;51.222;6.732;Germany;DEA1;COMMISSIONED;1976.0;;Freshwater;Once-through;43.07;0.38;0.49;OEM_derived;Rhine
+11WD7NORF5G--KWG;11WD7NORF5G-HTER;Kraftwerk Lausward;Block E;1145.0;300.0;Fossil Gas;51.222;6.732;Germany;DEA1;COMMISSIONED;1974.0;;Freshwater;Once-through;43.07;0.38;0.35;Class_derived;Rhine
+11WD7BISC5GKW23O;11WD7BISC5GKW3-T;KW Mainz-Wiesbaden;KMW_KW3;785.0;450.0;Fossil Gas;50.029;8.237;Germany;DEB3;COMMISSIONED;2001.0;;Freshwater;Once-through;43.07;0.38;0.54;OEM_derived;Rhine
+11WD7BISC5GKW23O;11WD7BISC5GKW2-W;KW Mainz-Wiesbaden;KMW_KW2;785.0;335.0;Fossil Gas;50.029;8.237;Germany;DEB3;COMMISSIONED;1977.0;;Freshwater;Once-through;43.07;0.38;0.48;OEM_derived;Rhine
+11WD4DAXLA-S---T;11WD4RDK71C7---G;Rheinhafen-Dampfkraftwerk Karlsruhe;RDK 7;1347.0;505.0;Fossil Hard coal;49.015;8.304;Germany;DE12;COMMISSIONED;1985.0;;Freshwater;Once-through;137.59;0.95;0.39;emissions_15_derived;Rhine
+11WD4DAXLA-S---T;11WD4RDK81C8---3;Rheinhafen-Dampfkraftwerk Karlsruhe;RDK 8;1347.0;842.0;Fossil Hard coal;49.015;8.304;Germany;DE12;COMMISSIONED;2014.0;;Freshwater;Natural Draught Tower;2.4;1.87;0.44;emissions_15_derived;Rhine
+11WD7BEEC5XRUKWN;11WD7BEEC5XRUH2I;RUHRORT-KW;RUHRORT-2;320.0;60.0;Fossil Coal-derived gas;51.46;6.731;Germany;DEA1;COMMISSIONED;1955.0;;Freshwater;Natural Draught Tower;4.55;3.13;0.4;Class_derived;Rhine
+11WD7BEEC5XRUKWN;11WD7BEEC5XRUH3G;RUHRORT-KW;RUHRORT-3;320.0;95.0;Fossil Coal-derived gas;51.46;6.731;Germany;DEA1;COMMISSIONED;1955.0;;Freshwater;Natural Draught Tower;4.55;3.13;0.4;Class_derived;Rhine
+11WD7BEEC5XRUKWN;11WD7BEEC5XRUH4E;RUHRORT-KW;RUHRORT-4;320.0;165.0;Fossil Coal-derived gas;51.46;6.731;Germany;DEA1;COMMISSIONED;1955.0;;Freshwater;Natural Draught Tower;4.55;3.13;0.4;Class_derived;Rhine
+11WD7WALS1S--KW0;11WD7WALS5S--9-Y;Walsum;WALSUM_9;1095.0;370.0;Fossil Hard coal;51.526;6.72;Germany;DEA1;COMMISSIONED;1988.0;;Freshwater;Natural Draught Tower;2.4;1.87;0.3;emissions_15_derived;Rhine
+11WD7WALS1S--KW0;11WD7WALS1S--10A;Walsum;WALSUM_10;1095.0;725.0;Fossil Hard coal;51.526;6.72;Germany;DEA1;COMMISSIONED;2013.0;;Freshwater;Natural Draught Tower;2.4;1.87;0.37;emissions_15_derived;Rhine
