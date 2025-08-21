@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+tqdm
+scipy
+metpy
+shapely
+pyproj
+matplotlib
+cartopy
+netCDF4
+xarray

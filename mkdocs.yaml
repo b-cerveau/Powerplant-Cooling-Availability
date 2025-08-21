@@ -1,0 +1,62 @@
+site_name: Supporting documentation for simulation of climate change impact on thermoelectrical generation
+theme:
+  name: material
+
+use_directory_urls: false
+
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            members_order: source
+            show_source: false
+            show_root_heading: true
+            show_root_full_path: false
+            show_signature_annotations: true
+            extensions:
+              - markdown
+          
+nav:
+  - Home: index.md
+  - Code organisation : codeorganisation.md
+  - Overall description : simulation.md
+  - Running the script : runningscript.md
+  - Modifying the script : newdata.md
+  - List of modules:
+      - Simulation logic:
+          - CoolingTower: CoolingTowerReference.md
+          - PowerPlantSimulation:
+              - Environmental regulations: EnvironmentalRegReference.md
+              - Power plants: PowerPlantReference.md
+          - ClusterSimulation: ClusterSimulationreference.md
+      - Utilities:
+          - general_utils: general_utilsReference.md
+          - PostProcessing: PostProcessingReference.md
+      - Region-specific simulation files:
+          - Loire: LoireReference.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: false
+      inline_syntax: ['$', '$']
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.highlight
+  - pymdownx.emoji
+  - pymdownx.snippets
+  - pymdownx.keys
+  - pymdownx.betterem
+
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.js
+  - https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/contrib/auto-render.min.js
+  - js/math-render.js  # optional custom script
+
+extra_css:
+  - https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css
