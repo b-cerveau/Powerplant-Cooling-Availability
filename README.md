@@ -19,8 +19,8 @@ To view the documentation locally, you’ll first need to set up a Python enviro
        # Windows
        .venv\Scripts\activate
 
-2) Navigate to the Simulation directory
-       cd /path/to/Simulation
+2) Navigate to your designated directory e.g. Powerplant-Cooling-Availability
+       cd /path/to/Powerplant-Cooling-Availability
 
 3) Install dependencies
 
